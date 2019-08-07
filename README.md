@@ -15,3 +15,6 @@
 ## Tests for this project is using PyTest framwork
   `pip install -U pytest`
 [PyTest](http://doc.pytest.org/en/latest/getting-started.html)
+
+## Usage example:
+`pytest -s --disable-warnings test_bicycle_image.py`

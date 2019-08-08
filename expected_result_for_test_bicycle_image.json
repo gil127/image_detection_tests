@@ -1,0 +1,17 @@
+{
+	"TestBicycleImage.test_detect_multiple_object_with_fast_checkpoint": 10,
+	"TestBicycleImage.test_detect_image_lables_with_fast_checkpoint": ["person", "person", "bicycle", "person", "bicycle", "bicycle", "person", "person", "bicycle", "person"],
+	"TestBicycleImage.test_detect_image_probabilities_with_fast_checkpoint": [0.9996, 0.9907, 0.9776, 0.968, 0.9645, 0.9614, 0.956, 0.8612, 0.8596, 0.7288],
+	"TestBicycleImage.test_detect_image_bbox_with_fast_checkpoint": [
+		[981, 410, 1077, 614],
+		[688, 384, 769, 586],
+		[994, 501, 1074, 649],
+		[761, 418, 869, 746],
+		[421, 446, 579, 794],
+		[744, 570, 872, 769],
+		[732, 412, 861, 603],
+		[443, 356, 586, 755],
+		[472, 567, 551, 792],
+		[721, 413, 830, 760]
+	]
+}
